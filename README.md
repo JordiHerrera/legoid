@@ -19,8 +19,8 @@ This project follows the development for an automatic LEGO set recognition tool 
 * Make sure all required files from the _data_ directory are present.
 * Execute main script _main.py_
 * Choose an image for standard parts
-* ![Standard window picture](https://i.imgur.com/r99NQEh.png)
+![Standard window picture](https://i.imgur.com/r99NQEh.png)
 * Choose an image for non-standard parts
-* ![Non-standard window picture](https://i.imgur.com/LuznIaJ.png)
+![Non-standard window picture](https://i.imgur.com/LuznIaJ.png)
 * Wait for the script to end, a progress percentage is shown.
 * Check the results!
